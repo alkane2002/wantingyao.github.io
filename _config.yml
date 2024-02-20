@@ -22,16 +22,16 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "ywt.png"
-  name             : "Your Sidebar Name"
+  name             : "Wanting YAO"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Undergraduate student @ ZJU"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : https://alkane2002.github.io/wantingyao.github.io/
   email            : "3210100894@zju.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : https://alkane2002.github.io/wantingyao.github.io/
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
